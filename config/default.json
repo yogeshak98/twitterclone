@@ -1,0 +1,19 @@
+{
+    "server": {
+        "host": "",
+        "port": 0
+    },
+    "mongodb": {
+        "username": "",
+        "password": "",
+        "cluster": "",
+        "database": "",
+        "options": ""
+    },
+    "user": {
+        "saltRounds": 0
+    },
+    "session": {
+        "secret": ""
+    }
+}
